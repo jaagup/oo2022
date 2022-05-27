@@ -1,0 +1,6 @@
+Salat
+
+* Koosta klass toiduaine tarbeks (nimetus, valkude, rasvade ja süsivesikute protsent). Protsent kokku ei saa ületada 100 - muidu antakse veateade. Loo mõni toiduaine (nt. kartul, hapukoor, vorst). Andmed saab nt (https://tka.nutridata.ee/et/). Sealt kartul (https://tka.nutridata.ee/et/toidud/280).
+Koosta klass toidukomponendi tarbeks (kogus, viit toiduainele). Loo mõned toidukomponendid (nt. 100 g kartuleid, 30 g hapukoort, 50 g vorsti). Lisa toidukomponendile käsklus selle sees leiduva rasvakoguse arvutamiseks.
+* Koosta klass toidu jaoks (nimetus, toidukomponendid). Toidule käsklused küsimaks sisalduvate valkude, rasvade ja süsivesikute kogust. Loo retsepti järgi toit (nt. kartulisalat), küsi salatis leiduvate toitainete kogused. Koosta rakendus, kus näidatakse valitud toidu etteantud koguse (nt. 5 kg kartulisalati) jaoks vajalikud toiduained.
+* Võimalda toidu andmeid kirjutada tekstifaili(desse) ja lugeda tagasi. Võib eeldada, et toiduaine, toidukomponendi ning toidu nimetus on unikaalne. Kontrolli töö õigsust automaattestidega.
